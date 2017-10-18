@@ -1,4 +1,4 @@
-//hi
+//hihi
 function tester(){
 
     document.getElementById("output1").innerHTML = firstLast6();
