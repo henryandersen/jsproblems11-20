@@ -122,7 +122,7 @@ function canBalance(array){
 
 }
 
-//better method than
+//better method than the 2 for loops
 function countClumps(array){
     var numClumps = 0;
     for(var i = 0; i < array.length; i++){
